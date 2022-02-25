@@ -11,4 +11,8 @@ Welcome to my Github page! I am currently working toward a B.E. degree with the 
 - 🎼 Playing the contrabass in SCU symphony orchestra
 
 Main Cooperator:
-Tianyu Gao(Amii)(https://apps.ualberta.ca/directory/person/tgao5)
+[Tianyu Gao](https://scholar.google.com/citations?hl=en&user=ydjIxzYAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=alanleezhg%40gmail.com&gmla=AJsN-F5-3tpRBrQSAnvkDhpgWGbR1WJjlujvRKHRCTMlf70AD8fOVTunXe29mTYjKrckU8RgFSGN5jecdEBAopWO_cXAZSNQsFpz7VZeDuI_lIHfCw8aoYRtLtcX2HmuNPX98fEGfmqZJbaPUR9cj48P4qH-Xg7v_PyrmQIslAvxlESPC7A_WTVi1eShq0cw7C3-VMP1SqfZHcN8Dc9B_ui7cDH7RAN5Kn-5Mv4ON-MM1ZBy0_kWZjhBlseWBSsu58a77pvXyBla)(Amii)
+[Huajin Zhang](https://www.researchgate.net/scientific-contributions/Huajin-Zhang-2044742904)(West China School of Pharmacy)
+
+Undergraduate Advisor:
+[Prof.Jin Yang](https://ccs.scu.edu.cn/info/1053/1138.htm)
