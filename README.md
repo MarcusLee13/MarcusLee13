@@ -10,3 +10,5 @@ Welcome to my Github page! I am currently working toward a B.E. degree with the 
 - 🤝 Collaborating with Ph.D. candidates affiliated with West China School of Pharmacy and Alberta Machine Intelligent Institute (Amii).
 - 🎼 Playing the contrabass in SCU symphony orchestra
 
+Main Cooperator:
+Tianyu Gao(Amii)(https://apps.ualberta.ca/directory/person/tgao5)
